@@ -68,7 +68,11 @@
 (enum_value
   (name) @property)
 
-; Variable Definitions and Arguments 
+(input_fields_definition
+  (input_value_definition
+    (name) @property))
+
+; Variable Definitions and Arguments
 ;-----------------------------------
 
 (operation_definition
@@ -76,10 +80,6 @@
 
 (fragment_name
   (name) @variable)
-
-(input_fields_definition
-  (input_value_definition
-    (name) @parameter))
 
 (argument
   (name) @parameter)
