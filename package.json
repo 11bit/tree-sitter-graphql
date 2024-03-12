@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-graphql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A treesitter grammar for GraphQL",
   "main": "bindings/node",
   "author": "Bryan Kegley <hi@bryankegley.me>",
